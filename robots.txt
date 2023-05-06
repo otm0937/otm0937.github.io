@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://otm0937.github.io/sitemap.xml
